@@ -1,2 +1,6 @@
-# Ynov---Projet-Big-Data-Data-Viz
-Projet d'architecture Big Data &amp; Data Viz
+# Ynov---Projet-Big-Data
+
+Projet d'architecture pour le cours de Big Data & Data Viz.
+
+L'objectif est d'extraire des données d'une API pour les traiter et les stocker en utilisant un maximum de technologies vues en cours.
+
