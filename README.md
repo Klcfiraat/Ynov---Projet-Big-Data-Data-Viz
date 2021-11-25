@@ -30,3 +30,7 @@ Accéder au producer.py en local et lancer la commande python3 producer.py
 Ici, le consumer reçoit bien les données envoyées par le producer, qui correspondent aux données météorologiques des différentes régions.
 
 ### 7. MongoDB
+Ouvrir le notebook mongo et lancer les commandes. On peut voir qu'on récupère l'intégralité du message envoyé par le producer, et qu'on peut faire du requetage sur la base et obtenir les données météorologiques de Strasbourg par exemple.
+
+### 8. Spark
+
