@@ -33,4 +33,9 @@ Ici, le consumer reçoit bien les données envoyées par le producer, qui corres
 Ouvrir le notebook mongo et lancer les commandes. On peut voir qu'on récupère l'intégralité du message envoyé par le producer, et qu'on peut faire du requetage sur la base et obtenir les données météorologiques de Strasbourg par exemple.
 
 ### 8. Spark
+Notre objectif avec Spark était de faire du traitement distribué avec par exemple une matrice de corrélation, des moyennes d'humidité, compter le nombre de villes où il neige, où il pleut...
+Malheureusement, nous n'avons pas eu le temps de réparer nos problèmes de versions / dépendances avec les différents packages, même si le dataframe est bien construit.
+Vous trouverez tout de même le code du notebook dans le répertoire.
 
+### 9. Streamlit
+Nous avons utilisé Streamlit pour faire de la visualisation sur une carte, des scatterplots... ce code est à lancer en invite de commande avec streamlit run streamlit.py
